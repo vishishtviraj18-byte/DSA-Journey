@@ -66,5 +66,4 @@ I regularly update this repository with new solutions and approaches as I contin
 * Understanding patterns and problem-solving techniques
 
 ---
-
-"Small daily improvements lead to remarkable results."
+Small daily improvements lead to remarkable results.
